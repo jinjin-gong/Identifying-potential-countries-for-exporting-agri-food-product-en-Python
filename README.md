@@ -2,8 +2,8 @@ A) Context:
 
 Objective: Identify groups of countries potentially interesting for exporting agri-food products.
 Database Used: FAO - Food and Agriculture Organization.
-Role:
 
+Role:
 Data Analyst responsible for market segmentation.
 
 B) Methodologies Used:
