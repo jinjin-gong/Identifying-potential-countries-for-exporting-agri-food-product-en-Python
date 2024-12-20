@@ -6,7 +6,7 @@
 - Role:
   Data Analyst responsible for market segmentation.
 ```
-**B) Methodologies Used:**
+**B) Methodologies:**
 ```
 1. Hierarchical Clustering Analysis (HCA):
 Visualization with a dendrogram to observe natural groupings.
@@ -43,7 +43,7 @@ Interactive graphs to explore clusters and relationships between variables.
   Further study of promising clusters using a PESTEL analysis (Political, Economic, Social, Technological, Environmental, and Legal).
 ```
 
-**E) Key Skills Demonstrated**
+**E) Key skills**
 ```
 - Data Science:
   Data cleaning and exploration.
